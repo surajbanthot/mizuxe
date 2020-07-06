@@ -1,2 +1,2 @@
 # mizuxe
-Single Page insro published book designed with bootstrap with sass. 
+Single Page intro published book designed with bootstrap with sass. 
